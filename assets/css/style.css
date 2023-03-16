@@ -325,6 +325,7 @@ h6 {
 }
 
 #hero::before {
+  height: 100vh;
   content: "";
   background: linear-gradient(rgba(0, 0, 0, 0.151), rgba(0, 0, 0, 1));
   position: absolute;
